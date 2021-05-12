@@ -3,5 +3,5 @@
 
 another line added
 
-local repo: add a line again
+local repo: add a sentence again
 
